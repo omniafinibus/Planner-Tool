@@ -1,0 +1,5 @@
+task,tag,startDate %d/%m/%y %H:%M,dueDate,priority,description,pages/minutes
+Read 1 Introduction,PCaP,,,9,,
+  Read 1.1,PCaP,,,9,Why study compiler construction,8 pages high
+  Read 1.2,PCaP,,,9,A simple traditional modular compiler/interpreter,13 pages high
+  Read 1.3,PCaP,,,9,The structure of a more realistic compiler,4 pages low

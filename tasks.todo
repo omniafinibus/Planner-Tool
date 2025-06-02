@@ -1,0 +1,12 @@
+Todos for Planner-Tool
+	# = Info
+	[ ] = To do
+	[!] = Important
+	[x] = Completed
+	[o] = In progress
+	[-] = Failed
+
+[!] Implement ICS file location specification as argument (get_schedule)
+[ ] Implement PDF metadata reader for automatic page reader
+[ ] Make csv format more user friendly
+[ ] ? Implement AI for approximation of time required per task 
